@@ -1,0 +1,6 @@
+The commands learned so far are:
+1) git clone:to clone a file on local machine
+2)git add : to add files(stage) to the repository
+3)git status : To see the current status of the repository
+4)git commit :That means the current state of the files/folders will be stored in the git repository permanently.
+5)git puch origin main : Once the changes are committed it can be pushed to the server repository
