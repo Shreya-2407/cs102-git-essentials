@@ -4,3 +4,6 @@ The commands learned so far are:
 3)git status : To see the current status of the repository
 4)git commit :That means the current state of the files/folders will be stored in the git repository permanently.
 5)git puch origin main : Once the changes are committed it can be pushed to the server repository.
+keys points of today's lecture:
+1)markdown introduction
+2)its uses and need
